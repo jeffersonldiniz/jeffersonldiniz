@@ -23,7 +23,7 @@ I hold a PhD in Physics from the Federal University of ABC (UFABC), specializing
 ### 📌 Featured Projects
 
 - **[Quantum Control & Open Systems Simulations](#)** — Numerical simulations of driven open quantum systems, work/heat statistics, and trajectory optimization using Python and QuTiP.
-- **[Personal Finance & Notification Parser PWA](#)** — Automated expense tracking web app that parses banking notifications and categorizes transactions in real time.
+- **[Personal Finance & Notification Parser PWA](#)** — Automated expense-tracking web app that parses banking notifications and categorizes transactions in real time.
 - **[Studio Booking & Financial Management System](#)** — Full-stack Progressive Web App built with Supabase and Vercel for appointment scheduling, client management, and cash-flow tracking.
 - **[STEM Reasoning Benchmark for LLMs](#)** — Structured evaluation scripts and rubrics to test mathematical consistency and physical reasoning in language models.
 
@@ -38,7 +38,7 @@ I hold a PhD in Physics from the Federal University of ABC (UFABC), specializing
 
 ### 📫 Connect with Me
 - **Google Scholar:** [scholar.google.com/citations?user=X97507YAAAAJ](https://scholar.google.com/citations?user=X97507YAAAAJ)
-- **LinkedIn:** [linkedin.com/in/jefferson-diniz](linkedin.com/in/jefferson-diniz-phd-7a6648233)
+- **LinkedIn:** [linkedin.com/in/jefferson-diniz-phd-7a6648233](https://linkedin.com/in/jefferson-diniz-phd-7a6648233)
 - **Email:** jeffersonldiniz@gmail.com
 
 <!--
