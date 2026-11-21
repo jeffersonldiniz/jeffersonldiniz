@@ -37,7 +37,7 @@ I hold a PhD in Physics from the Federal University of ABC (UFABC), specializing
 ---
 
 ### 📫 Connect with Me
-- **Google Scholar:** [scholar.google.com/citations?user=X97507YAAAAJ](https://scholar.google.com/citations?user=X97507YAAAAJ)
+- **Google Scholar:** [scholar.google.com/citations?user=kuJ7VYUAAAAJ&hl=en](https://scholar.google.com/citations?user=kuJ7VYUAAAAJ&hl=en)
 - **LinkedIn:** [linkedin.com/in/jefferson-diniz-phd-7a6648233](https://linkedin.com/in/jefferson-diniz-phd-7a6648233)
 - **Email:** jeffersonldiniz@gmail.com
 
